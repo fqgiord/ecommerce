@@ -3,7 +3,7 @@
 Product List
 
 <p align="center">
-  <img src="https://github.com/fqgiord/ecommerce/blob/main/img2.png?raw=true" width="300" />
+  <img src="https://github.com/fqgiord/ecommerce/blob/main/img2.png?raw=true" width="400" />
   <img src="https://github.com/fqgiord/ecommerce/blob/main/img1.png?raw=true" width="600" />
    
 </p>
