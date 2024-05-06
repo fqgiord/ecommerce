@@ -3,8 +3,9 @@
 Product List
 
 <p align="center">
-  <img src="https://github.com/fqgiord/html-css-js-responsive_nav_bar/blob/main/readme_img1.png?" width="600" />
+  <img src="https://github.com/fqgiord/ecommerce/blob/main/img1.png?raw=true" width="600" />
    <img src="https://github.com/fqgiord/html-css-js-responsive_nav_bar/blob/main/readme_img2.png" width="300" />
+  
 </p>
 
 # portfolio
